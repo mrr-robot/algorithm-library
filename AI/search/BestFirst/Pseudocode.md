@@ -2,6 +2,6 @@
 
 ### 1. Pseudocode 
 
-"""Python
+```Python
   function ITERATIVE-DEEPENING-SEARCH(problem, depoth) returns a solution node or failure
-"""
+```
