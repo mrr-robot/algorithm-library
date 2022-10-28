@@ -3,5 +3,5 @@
 ### 1. Pseudocode 
 
 ```Python
-  function ITERATIVE-DEEPENING-SEARCH(problem, depoth) returns a solution node or failure
+  function ITERATIVE-DEEPENING-SEARCH(problem, depoth) returns a solution node or _failure_
 ```
